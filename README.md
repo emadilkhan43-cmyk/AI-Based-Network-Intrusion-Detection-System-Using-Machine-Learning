@@ -1,0 +1,2 @@
+# AI-Based-Network-Intrusion-Detection-System-Using-Machine-Learning
+This project proposes a Machine Learning-based Network Intrusion Detection System (NIDS) that analyzes network-traffic records and classifies them as normal or potentially malicious. The prototype will be developed using Python and Scikit-learn, with a Streamlit dashboard for displaying predictions, summary statistics, and evaluation results.
